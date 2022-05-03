@@ -13,3 +13,4 @@ This is my first coding challenge. Image with alternative is something can be ea
 <img src="./Develop/assets/images/Horiseon-Homepage-Screenshot.png" alt="Webpage screenshot" width="501" height="915"/>
 
 ## Link to Deployed Application:
+https://newchap2022.github.io/Challenge-1-Horiseon/Develop/index.html
