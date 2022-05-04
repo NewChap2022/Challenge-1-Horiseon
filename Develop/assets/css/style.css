@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* modify the selector from class to type */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* emerge the classes with same styling together */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
