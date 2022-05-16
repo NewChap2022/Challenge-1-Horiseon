@@ -1,7 +1,7 @@
-# Bootcamp Challenge 1 
+# Refractor Website
 ## Objective:
 *Refactor the existing code to make it accessible*
-## Challenge 1 Acceptance Criteria:
+## Criteria:
 - [x] Semantic HTML elements 
 - [x] The HTML elements follow a logical structure independent of styling and positioning
 - [x] The image elements have accessible alt attributes
